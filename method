@@ -9,3 +9,15 @@ Type:
 oem unlock
 ```
 The device will factory reset and unlock
+
+运行main.py
+按照提示进行
+最后，您将在json中得到一个十六进制字符串（或中文错误），并使用十六进制编辑器将其放入文件中，将其命名为“ token”。
+下载github.com/penn5/fastbrute
+从fastbrute运行interpreter.py
+类型：
+```
+=令牌
+OEM解锁
+```
+设备将恢复出厂设置并解锁
